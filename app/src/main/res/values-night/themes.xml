@@ -1,0 +1,13 @@
+<resources>
+    <style name="Theme.PixelHost" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">#0F7B4D</item>
+        <item name="colorPrimaryVariant">#0A5D3A</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="android:statusBarColor">#0A5D3A</item>
+
+        <item name="windowActionBar">false</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+</resources>

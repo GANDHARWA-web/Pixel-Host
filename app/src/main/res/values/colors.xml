@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#A3BFFA</color>
+    <color name="purple_500">#667EEA</color>
+    <color name="purple_700">#5A67D8</color>
+    <color name="teal_200">#63E6BE</color>
+    <color name="teal_700">#2DD4BF</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- LIGHT THEME COLORS (same names so no code change needed) -->
+    <color name="bg_dark">#F7F9FC</color>          <!-- background very light grey -->
+    <color name="card_dark">#FFFFFF</color>        <!-- cards pure white -->
+    <color name="accent_teal">#3EB489</color>      <!-- soft teal primary accent -->
+    <color name="text_primary">#1A1A1A</color>     <!-- almost black text -->
+    <color name="text_secondary">#6B7280</color>   <!-- soft grey -->
+
+    <color name="ph_primary">#0F7B4D</color>
+    <color name="ph_primary_variant">#0A5D3A</color>
+    <color name="ph_on_primary">#FFFFFFFF</color>
+    <color name="ph_status_bar">#0A5D3A</color>
+
+
+</resources>
